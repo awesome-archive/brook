@@ -1,10 +1,2 @@
-main
 brook
-brook_linux_386
-brook_linux_arm64
-brook_linux_arm7
-brook_linux_arm6
-brook_linux_arm5
-brook_macos_amd64
-brook_windows_amd64.exe 
-brook_windows_386.exe
+brook*
